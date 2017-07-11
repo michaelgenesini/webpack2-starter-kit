@@ -1,7 +1,7 @@
 {
   "name": "webpack2-starter-kit",
   "version": "1.0.0",
-  "repository": "https://github.com/michaelgenesini/webpack-bolerplate",
+  "repository": "https://github.com/michaelgenesini/webpack2-starter-kit",
   "scripts": {
     "dev:validate": "",
     "dev:dashboard": "webpack-dashboard -- webpack-dev-server --env.development",
